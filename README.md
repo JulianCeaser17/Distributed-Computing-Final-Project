@@ -1,2 +1,2 @@
 # Distributed-Computing-Final-Project
-This project was made for the Distributed Computing class. This project will be made based on the MPI library. The project aims to ensure that the computer system handles the task even with some faulty components.
+This project was created for a distributed computing class. This project will be created based on the MPI library. The project is aimed at ensuring that the computer system copes with the task using multithreading.
